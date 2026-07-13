@@ -1,0 +1,10 @@
+def find_longest_word(sentence):
+    words = sentence.split()
+    longest = words[0]
+    for word in words:
+        if len(word) > len(longest):
+            longest = word
+    return longest
+
+sentence = input("Enter a sentence: ")
+print("Longest word:", find_longest_word(sentence))
