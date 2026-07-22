@@ -1,0 +1,29 @@
+{
+  "summary": {
+    "total_calls": 10,
+    "total_cost": 1718.0,
+    "malformed_rows": 1,
+    "suspicious_calls": 1
+  },
+  "subscribers": {
+    "9910000001": {
+      "plan_type": "basic",
+      "call_count": 3,
+      "total_cost": 48.25
+    },
+    "9910000002": {
+      "plan_type": "premium",
+      "call_count": 3,
+      "total_cost": 123.75
+    },
+    "9910000003": {
+      "plan_type": "basic",
+      "call_count": 2,
+      "total_cost": 1446.0
+    }
+  },
+  "unknown_subscribers": [
+    "9910000004",
+    "9910000005"
+  ]
+}

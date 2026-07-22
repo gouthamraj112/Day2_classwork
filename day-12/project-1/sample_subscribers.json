@@ -1,0 +1,5 @@
+[
+  {"msisdn": "9910000001", "plan_type": "basic"},
+  {"msisdn": "9910000002", "plan_type": "premium"},
+  {"msisdn": "9910000003", "plan_type": "basic"}
+]

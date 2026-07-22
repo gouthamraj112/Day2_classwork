@@ -1,0 +1,12 @@
+msisdn,call_type,duration_sec
+9910000001,domestic,180
+9910000002,international,600
+9910000004,roaming,120
+9910000003,domestic,240
+9910000001,roaming,300
+9910000002,domestic,90
+9910000005,international,420
+9910000003,international,7200
+9910000002,domestic,60
+9910000001,domestic,150
+9910000003,domestic,not-a-number
